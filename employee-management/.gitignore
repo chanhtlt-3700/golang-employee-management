@@ -1,0 +1,6 @@
+# Export files written by the background worker
+exports/
+
+# Build output
+*.exe
+/server
